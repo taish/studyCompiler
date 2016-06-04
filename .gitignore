@@ -1,0 +1,11 @@
+# Various
+
+.DS_Store
+
+*/y.tab.c
+*/expr
+
+# Linux
+
+*.swp
+*.swo
